@@ -1,0 +1,1 @@
+show {{$item->title}}
